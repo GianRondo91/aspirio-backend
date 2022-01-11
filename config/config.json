@@ -1,9 +1,9 @@
 {
   "development": {
     "username": "root",
-    "password": null,
+    "password": "password",
     "database": "aspirio-backend",
-    "port": 3306,
+    "port": "3306",
     "host": "localhost",
     "dialect": "mysql"
   },

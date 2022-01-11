@@ -1,4 +1,3 @@
-res.status(err.status || 500);
 const express = require('express');
 const cors = require('cors');
 const router = require('./router');
